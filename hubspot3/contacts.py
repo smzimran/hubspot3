@@ -110,6 +110,7 @@ class ContactsClient(BaseClient):
                     "recent_conversion_event_name",
                     "hs_analytics_source_data_2",
                     "associatedcompanyid",
+                    "email_validity",
                 ],
             },
         )
