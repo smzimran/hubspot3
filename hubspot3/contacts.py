@@ -86,6 +86,7 @@ class ContactsClient(BaseClient):
                     "email",
                     "firstname",
                     "lastname",
+                    "jobtitle",
                     "company",
                     "contact_city",
                     "numemployees",
