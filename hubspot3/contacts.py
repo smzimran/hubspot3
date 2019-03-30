@@ -112,6 +112,7 @@ class ContactsClient(BaseClient):
                     "hs_analytics_source_data_2",
                     "associatedcompanyid",
                     "email_validity",
+                    "phone",
                 ],
             },
         )
