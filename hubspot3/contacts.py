@@ -90,6 +90,7 @@ class ContactsClient(BaseClient):
                     "company",
                     "contact_city",
                     "numemployees",
+                    "num_contacted_notes",
                     "hubspot_owner_id",
                     "lifecyclestage",
                     "hs_lead_status",
