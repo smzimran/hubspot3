@@ -78,6 +78,7 @@ class DealsClient(BaseClient):
                         "number_of_employees",
                         "number_of_terminals",
                         "notes_last_contacted",
+                        "current_food_situation"
                     ],
                     "includeAssociations": True,
                 },
